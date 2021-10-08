@@ -1,8 +1,9 @@
+**The plugin was beta version - use it at your own risk.**
+
+**The plugin is not maintained anymore. We're publishing the code for the community. Forks and maintainers are welcomed.**
+
 ## Introduction
 PowerComponents plugin is a OctoberCMS plugin with set of traits and classes for components that moves working with components to a next level.
-
-## Disclaimer
-**The plugin is beta version so it should not be used in production. It still may crash and behave unexpectedly, although we are working on it.**
 
 The plugin heavily uses OctoberCMS's AJAX framework. All "empowered" components requests server for views, so it is not possible, to use the plugin without October's AJAX framework. It is a very important thing in some environments to consider.
 

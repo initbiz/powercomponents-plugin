@@ -2,7 +2,7 @@
     "name": "initbiz/powercomponents-plugin",
     "type": "october-plugin",
     "description": "Create forms and lists in frontend the way you love from backend",
-    "license": "proprietary",
+    "license": "MIT",
     "keywords": [
         "october",
         "octobercms",
